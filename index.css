@@ -27,7 +27,7 @@ line-height: 1.6;
 }
 
 .container {
-max-width: 1200px;
+max-width: 1920px;
 margin: 0 auto;
 padding: 0 1.5rem;
 }
@@ -234,7 +234,7 @@ display: grid;
 grid-template-columns: 1fr 1fr;
 gap: 3rem;
 align-items: center;
-max-width: 64rem;
+max-width: 90rem;
 margin: 0 auto;
 }
 
